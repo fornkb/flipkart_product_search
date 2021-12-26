@@ -1,0 +1,8 @@
+To run this program successfully, you will have to install beautifulSoup, lxml, requests modules from cmd (Command_Prompt).
+To install, run the below commands
+"pip install beautifulsoup"
+And then,
+"pip install requests"
+And then,
+"pip install lxml"
+Now you're Ready to go!!
